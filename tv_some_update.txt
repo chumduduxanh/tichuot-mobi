@@ -1,0 +1,1 @@
+lifetv;rtmp://27.118.16.86/liveedge/stream1.stream;1;6;Kênh Giải Trí Life TV;1;$lifetv;http://xrxs.net/video/live-p12ariz-4728.m3u8;1;16;Kênh Du Lịch life TV new;0;$usa sport new;http://xrxs.net/video/live-p12ariz-4728.m3u8;0;16;;0;
